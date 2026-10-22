@@ -1,5 +1,4 @@
+venv/
+__pycache__/
 .env
-clear_data.py
-test.py
-old.py
-__pycache__
+history.txt
